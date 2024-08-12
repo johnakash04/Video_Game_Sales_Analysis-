@@ -5,6 +5,7 @@
 
  
 Tools Used - MS Excel, MySQL, Power BI
+![Video_Games_Dashboard (1)_page-0001](https://github.com/user-attachments/assets/4d8f58f9-285c-4adc-a4ae-4e560c10228a)
 
 Dataset Used
 
